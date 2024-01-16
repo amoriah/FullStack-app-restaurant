@@ -38,4 +38,4 @@
 
 Это учебный проект, который разрабатывался на gitlab.<br>
 
-![menu](menu.png)
+![menu](cut_menu.png)
