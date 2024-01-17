@@ -5,12 +5,16 @@
 Бекенд написан на express.js, база данных Postgresql, используется посредством Sequelize.
 Фронтенд на React, React-router и Style-components (стили утрированно примитивные).
 
-## Start
-1. npm i // установка пакетов
-2. npm run dbr // создаем базу
-3. npm start // запускаем сервер, перед этим должен быть включен сервер Postgres
-4. cd client
-5. npm i && npm start // запускаем клиентскую часть
+## Запуск
+
+```bash
+npm i
+npm run dbr
+npm start
+сd client
+npm i
+npm start
+```
 
 ## Функционал приложения
 
